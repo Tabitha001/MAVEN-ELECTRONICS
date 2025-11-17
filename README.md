@@ -157,7 +157,7 @@ It demonstrates strong skills in data storytelling, dashboard design, DAX calcul
 
 ## 📂 Data Source  
 
-The datasets used in this project were provided by ** TINA OKONKWO ** as part of a practical assignment under the **Power BI cohort**.  
+The datasets used in this project were provided by **TINA OKONKWO** as part of a practical assignment under the **Power BI cohort**.  
 They include realistic Sales data covering customers, stores, sales, rates, and products.  
 
 All cleaning, analysis, and visualizations were performed independently using **Power BI** for educational and project-based learning purposes.
