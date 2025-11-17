@@ -5,6 +5,12 @@
 This project analyzes sales, customer behavior, product performance, and store operations for Maven Electronics, a multinational electronics retailer. 
 Using Power BI, the goal was to uncover patterns in revenue, identify high-performing products and regions, understand customer demographics, and evaluate store performance to support data-driven decision-making.
 
+
+## Dashboard Link
+**View the live interactive dashboard:**  
+[Maven Electronics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmE4NDIxNWItNDZlZi00M2Y4LWIxM2QtYjYzM2NmMDRhMDlkIiwidCI6IjlmNTkxNmZhLWIwMmEtNDNiYy04NjMxLTVkMmVkYTk0YmQ2MyJ9&pageName=c57928c325737274e2d0)
+
+
 ---
 
 ## 🎯 Project Overview
