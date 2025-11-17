@@ -26,12 +26,12 @@ Each dashboard page was designed to help stakeholders quickly identify business 
 
 **Raw Data (Uncleaned):**  
 This folder contains all raw, uncleaned data files used for the analysis, including:
-Sales Data – Transaction records with dates, revenue, profit, units sold
-Customer Data – Customer demographics and purchase information
-Store Data – Store locations, store type, and operational details
-Product Data – Product categories, pricing, and product attributes
-Exchange Rate Data – Currency conversion rates for standardizing revenue
-Data Dictionary – Clear definitions of all fields used across the dataset
+- Sales Data – Transaction records with dates, revenue, profit, units sold
+- Customer Data – Customer demographics and purchase information
+- Store Data – Store locations, store type, and operational details
+- Product Data – Product categories, pricing, and product attributes
+- Exchange Rate Data – Currency conversion rates for standardizing revenue
+- Data Dictionary – Clear definitions of all fields used across the dataset
 
 ## 📸 Dashboard Screenshots  
 
@@ -47,11 +47,10 @@ These screenshots highlight the design, layout, and analytical depth of the repo
 ## 📊Live Dashboard Link
 
 A link to the published Power BI dashboard, featuring:
--Fully interactive visualizations and slicers
--Automated calculations and DAX-powered metrics
--Navigation buttons for seamless report exploration
--Dynamic filtering by year, region, product category, generation, and more
-Optimized layout for desktop and presentation mode
+- Fully interactive visualizations and slicers
+- Automated calculations and DAX-powered metrics
+- Navigation buttons for seamless report exploration
+- Dynamic filtering by year, region, product category, generation, and more Optimized layout for desktop and presentation mode
 
 ---
 
@@ -60,12 +59,12 @@ Power BI | Power Query | DAX (Data Analysis Expressions)
 
 ### Techniques
 
--Data modeling (relationships and star schema)
--DAX calculations: YOY growth, averages, segmentation columns, top N filters
--Time intelligence (YTD, PY, YOY, date hierarchy)
--Data cleaning: handling missing values, standardizing dates, categorizing customers
--Visual design: bookmarks, slicers, tooltip pages, consistent color formatting
--Drill-through & interactive filtering across pages
+- Data modeling (relationships and star schema)
+- DAX calculations: YOY growth, averages, segmentation columns, top N filters
+- Time intelligence (YTD, PY, YOY, date hierarchy)
+- Data cleaning: handling missing values, standardizing dates, categorizing customers
+- Visual design: bookmarks, slicers, tooltip pages, consistent color formatting
+- Drill-through & interactive filtering across pages
 
 
 ---
